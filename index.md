@@ -1,8 +1,10 @@
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/k98berry/k98berry.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## What Software Engineering means to me (Homework 1)
+Software Engineering to me is a foundational building block in the computer science field. It is a basis on truly learning how to code and develop for the real world. While this class may be challenging, it is important to understand the foundations this class is going to present, and is going to be vital for future positions and jobs hopefully to come. I hope to leave this class with a lot of real world examples and understanding of what I am about to get myself in to when I go into the job field.
 
 ### Markdown
 
