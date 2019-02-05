@@ -9,6 +9,9 @@ Software Engineering to me is a foundational building block in the computer scie
 ## Why I am taking Software Engineering(Homework 2)
 I'm taking software engineering because I personally feel like it is going to be one of the most important classes I take at Xavier. I feel like this class will translate in to real world application a lot, so I dont wanna be on the wrong side of the road and not take it. I also have loved most of my classes involving CS, so I hope to feel the same about this one. I hope to get tons of new coding experience out of this class, and to learn some new problem solving and debugging strategies.
 
+## Chapter 1 Blog (Homework 3)
+Chapter 1 of The Pragmatic Programmer is very interesting and not what I was expecting for the topics of discussion. This section is more about practice and style, and not necessarily coding. One of my favorite parts of the section was the "Broken Window Theory". this theory simply put states that once there is a broken window in a building or graffiti on the walls, the building and it's inhabitants will believe that keeping the place clean is not a priority, and the building will deteriorate cleanliness wise. This same approach can be taken to our code. Bad code and poor style makes us prone to more clutter, so you must nip it in the butt when you see it, or when you go to update and refurbish. Other than these topics, the rest was fairly straight forward, but still a worthy read.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
