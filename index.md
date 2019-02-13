@@ -12,6 +12,10 @@ I'm taking software engineering because I personally feel like it is going to be
 ## Chapter 1 Blog (Homework 3)
 Chapter 1 of The Pragmatic Programmer is very interesting and not what I was expecting for the topics of discussion. This section is more about practice and style, and not necessarily coding. One of my favorite parts of the section was the "Broken Window Theory". this theory simply put states that once there is a broken window in a building or graffiti on the walls, the building and it's inhabitants will believe that keeping the place clean is not a priority, and the building will deteriorate cleanliness wise. This same approach can be taken to our code. Bad code and poor style makes us prone to more clutter, so you must nip it in the butt when you see it, or when you go to update and refurbish. Other than these topics, the rest was fairly straight forward, but still a worthy read.
 
+## Chapter 2 Blog (Homework 4)
+Chapter 2 of the Pragmatic Programmer is all about useful tips and tricks for coding, and how to keep everything relevant in years to come. My favorite part of this chapter when it gave the analogy of the "Tracer Bullets". I had never heard any sort of advice like that before so it was interesting how the book related it to the real world. Overall this chapter did seem a little repetitive though, which is ironic because there was a section not being repetitive. A lot of the points they made in the organization sections were stated multiple times, just in different context. Considering that the chapter is already fairly long, it made me lose focus of learning through this reading. That is the only thing I would change or disagree with about this chapter.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
