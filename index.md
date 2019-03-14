@@ -15,6 +15,12 @@ Chapter 1 of The Pragmatic Programmer is very interesting and not what I was exp
 ## Chapter 2 Blog (Homework 4)
 Chapter 2 of the Pragmatic Programmer is all about useful tips and tricks for coding, and how to keep everything relevant in years to come. My favorite part of this chapter when it gave the analogy of the "Tracer Bullets". I had never heard any sort of advice like that before so it was interesting how the book related it to the real world. Overall this chapter did seem a little repetitive though, which is ironic because there was a section not being repetitive. A lot of the points they made in the organization sections were stated multiple times, just in different context. Considering that the chapter is already fairly long, it made me lose focus of learning through this reading. That is the only thing I would change or disagree with about this chapter.
 
+## Chapter 4 Blog (Homework 6)
+Chapter 4 of the Pragmatic Programmer talks a lot about different ways to debug your program before the debugging has even started. It provides insight to how to properly use assertions, how to keep your code "under a contract", and when it is proper to crash your program, before something very harmful happens. The most suprising thing to me about this chapter is that it is actually encouraged to crash your program if there is something wrong with it. I had always figured that crashing was the last thing you wanted to happen, but if you have an issue with your program, it is best that it is noticed and crashes rather than it goes unnoticed and lingers in your code. Overall this was one of the more boring chapters so far in my opinion, just because it was just a lot of different choices on how to properly keep your code under contract, and when it's appropriate to do so.
+
+## Chapter 7 Blog (Homework 7)
+
+
 
 ### Markdown
 
