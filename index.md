@@ -21,35 +21,7 @@ Chapter 4 of the Pragmatic Programmer talks a lot about different ways to debug 
 ## Chapter 7 Blog (Homework 7)
 Chapter 7 of the Pragmatic Programmer talks a lot about what we have been talking about in class about project requirements and features, and how to go from a blank piece of paper to a full-fledged program without all the freaking out and procrastination. Some of the things they suggest in this chapter refer to breaking down all the different requirements into things that can highlight what a programmer is supposed to do, and slowly build it from the ground up. One of the things they warn about is not over-specifying, because you do want to give some freedom to the coder, and let them find their own solution. My favorite part of the chapter was actually when it was talking about thinking outside the box, and showed us the four posts problem, which tells you to connect the four posts with three lines. It's a fun quick way to show how thinking in a different manner can simplify your problem, which is a very important skill in computer science.
 
+## The 12-Factor App Blog (Homeowrk 9)
+The Twelve Factor App os a website that sets standards for how an application should be handled and set up. These "Twelve Factors" are all some sort of rule that you should follow to have the best application possible, and to keep it organized. This website is useful because it explains how to set everything up when it comes to code organization, version control, and other things as well. I could see myself going back to this website just to see the most efficient way to start something, or how to keep it maintained. It was also cool to see that this article talked about back-end services specifically, which is the group that I am a part of for our Software Engineering project. The only thing that was tough for me about this article was some of the specific examples they used I had never heard of, but I guess that is what stack overflow is for. Overall I would see our group structuring our project how this article recommends, because most of us have never done anything like this before and would not know where to start. Excited to see what our group can do with this project as well. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k98berry/k98berry.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
